@@ -1,26 +1,2 @@
-# http://jira.codehaus.org/browse/SONAR-3221
-=dev-util/sonar-bin-2.13
-
-# http://jira.codehaus.org/browse/SONAR-3442
-=dev-util/sonar-bin-3.0
-
-# http://jira.codehaus.org/browse/SONAR-3584
-=dev-util/sonar-bin-3.1
-
-# http://jira.codehaus.org/browse/SONAR-3701
-=dev-util/sonar-bin-3.2
-
-# http://jira.codehaus.org/browse/SONAR/fixforversion/18920
-=dev-util/sonar-bin-3.3
-
-# http://jira.codehaus.org/browse/SONAR/fixforversion/18965
-=dev-util/sonar-bin-3.3.1
-
-# https://jira.codehaus.org/browse/SONAR-4050
-=dev-util/sonar-bin-3.4
-
-# Release candidate
->=dev-util/sonar-bin-3.5
-
 # https://wiki.jenkins-ci.org/display/SECURITY/Jenkins+Security+Advisory+2013-01-04
 <=dev-util/jenkins-bin-1.480.1
